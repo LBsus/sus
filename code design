@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>LB home page</title>
+  </head>
+  <body>
+    <hr size="5" noshade color=black>
+    <tables cellspacing="25">
+      <tr>
+        <td><img src="LB.png.jpg" alt="lbred pic"></td>
+        <td>  <h1>LBRED</h1>
+          <p><i>I'll teach you guys</i></p>
+          <p><i>I'm exellent at english</i></p>
+          <p><i>I'm a financial planner</i></p></td>
+      </tr>
+    </table>
+    <hr size="5" noshade color=yellow>
+    <ul>
+    <il>I'll teach you financial planing</il>
+    <il>,I will teach you math,english,and coding</il>
+    </ul>
+    <a href="2">My daily routines</a>
+    <h2>learned at 84th school</h2>
+    <h2><strong>Work experience<strong></h2>
+    <table border="1">
+      <tr>
+        <td>real estate agent</td>
+        <td>2025-2027</td>
+      </tr>
+      <tr>
+        <td>walstreet</td>
+        <td>2028-2038</td>
+      </tr>
+    </table>
+    <h2>Skills</h2>
+    <table border="1"cellspacing="10">
+      <tr>
+        <td>coding</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>X</td>
+      </tr>
+      <tr>
+        <td>English</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>X</td>
+      </tr>
+      <tr>
+        <td>financial planing</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>⭐</td>
+        <td>⭐</td>
+      </tr>
+    </table>
+    <h2>Contact me <h2>
+    <table>
+    <tr>
+      <td>phone number</td>
+      <td>+997 99531673</td>
+    </tr>
+    <td>Gmail</td>
+    <td>elbegbayarlbbat@gmail.com</td>
+    </table>
+  </body>
+</html>
